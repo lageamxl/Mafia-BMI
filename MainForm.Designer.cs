@@ -127,12 +127,12 @@ namespace Mafia_BMI
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(100, 20);
 			this.label3.TabIndex = 5;
-			this.label3.Text = "Výška (m)";
+			this.label3.Text = "Výška (cm)";
 			// 
 			// pictureBox1
 			// 
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-			this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+			this.pictureBox1.Location = new System.Drawing.Point(0, -72);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(478, 508);
 			this.pictureBox1.TabIndex = 6;

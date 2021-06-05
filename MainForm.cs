@@ -16,12 +16,12 @@ namespace Mafia_BMI
 		}
 		void BtnCalculateClick(object sender, EventArgs e)
 		{
-			double vaha = Convert.ToDouble(textBox1.Text);
-			double vyska = Convert.ToDouble(textBox2.Text);
-			double BMI = vaha / (vyska * vyska);
+			double vaha = Convert.ToDouble(textBox1.Text); //deklarace váhy 		
+			double vyska = Convert.ToDouble(textBox2.Text); //deklarace výšky  
+			double BMI = vaha / ((vyska/100) * (vyska/100)); //vypočet BMI 
 
 			
-				label1.Text = BMI.ToString("F2");
+
 				
 				if (BMI >= 18 && BMI <= 24)
 				{
@@ -63,26 +63,6 @@ namespace Mafia_BMI
 					picturePetr.Visible = false;
 				}
 				
-				if (vaha > 68 && vaha < 70 )
-				{
-					label1.Text ="69";
-					pictureTom.Visible = false;
-					pictureBiff.Visible = false;
-					pictureSalvatore.Visible = false;
-					pictureVavra.Visible = true;
-					picturePetr.Visible = false;
-				}
-				
-				if (vyska > 68 && vaha < vyska )
-				{
-					label1.Text ="69";
-					pictureTom.Visible = false;
-					pictureBiff.Visible = false;
-					pictureSalvatore.Visible = false;
-					pictureVavra.Visible = true;
-					picturePetr.Visible = false;
-				}
-				
 				if (BMI > 100)
 				{
 					label1.Text = BMI.ToString("F2") + "\n" + "fakt k tomu Pepému nechoď už!";
@@ -93,9 +73,6 @@ namespace Mafia_BMI
 					picturePetr.Visible = true;
 				}
 
-
-
-				
 		}
 		
 		
