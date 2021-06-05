@@ -1,5 +1,5 @@
 Spusť Mafia BMI.exe 
-váhu zadej v kilogramech a výšku v metrech a poté zmáčkni talčítko - VYPOČÍTEJ BMI
+váhu zadej v kilogramech a výšku v centimetrech a poté zmáčkni talčítko - VYPOČÍTEJ BMI
 
 idk to je všechno :D kdyby to nefungovalo tak dm - Lagemaxl#0241
 
