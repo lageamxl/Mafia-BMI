@@ -1,0 +1,8 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\obj\Debug\Mafia BMI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\obj\Debug\Mafia_BMI.MainForm.resources
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\obj\Debug\Mafia BMI.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\bin\Debug\Mafia BMI.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\bin\Debug\Mafia BMI.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\bin\Debug\Mafia BMI.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\obj\Debug\Mafia BMI.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\Mafia BMI\Mafia BMI\obj\Debug\Mafia BMI.pdb
